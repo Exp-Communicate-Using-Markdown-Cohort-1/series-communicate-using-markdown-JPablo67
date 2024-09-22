@@ -7,3 +7,5 @@ As a motivated learner, I thrive in collaborative environments and continuously 
 
 ## Project Overview
 This project aims to [briefly describe the purpose of the project and its key features]. 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
